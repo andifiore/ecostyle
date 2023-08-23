@@ -28,19 +28,19 @@ body {
 /*Este es un id único en el HTML, representado por #nombre*/
 /*Este color está declarado en #Hex*/
 #color1 {
-    background-color: #000000;
+    background-color: rgb(255, 183, 0);
 }
 /*Este color está declarado con una palabra clave*/
 #color2 {
-    background-color: rgb(154, 205, 50);
+    background-color: rgb(255, 183, 0);
 }
 /*Este color está declarado con valores RGB (XX, XX, XX)*/
 #color3 {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 183, 0);
 }
 /*Este color está declarado en RGB, y tiene transparencia de 0.705*/
 #color4 {
-    background-color: rgba(0, 0, 0, 0.705);
+    background-color: rgb(255, 183, 0);
 }
 
 /*ESTILOS DE BARRA DE NAVEGACIÓN*/
