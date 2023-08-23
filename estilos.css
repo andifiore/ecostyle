@@ -108,7 +108,7 @@ nav a:hover{
     /*Transformar texto a mayúsuclas*/
     text-transform: uppercase;
     /*Sombra: offset-x | offset-y | blur-radius | color */
-    text-shadow: 2px 2px 3px rgb(22, 28, 96);
+    text-shadow: 2px 2px 3px rgb(65, 66, 71);
     /*Espaciado interior*/
     padding: 0px 0px 100px 0px;
 
