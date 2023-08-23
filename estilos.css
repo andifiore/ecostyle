@@ -58,7 +58,7 @@ nav a{
     /*Tipografía*/
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
     /*Peso de la tipografía (tiene que estar linkeada la variable)*/
-    font-weight: 700;
+    font-weight: 800;
     /*Espaciado interno*/
     padding: 25px;
     /*Tiempo de transición animaciones de hover (mirar abajo)*/
@@ -76,9 +76,9 @@ nav a:hover{
 /*ESTILOS LOGO BARRA DE NAVEGACIÓN*/
 #logo img{
     /*Altura de imagen relativa al espacio disponible: "100% del espacio"*/
-    height: 100%;
+    height: 60%;
     /*Altura máxima que puede alcanzar la imagen: 80px*/
-    max-height: 80px;
+    max-height: 70px;
     /*Posicionamiento 10px abajo de dónde debería estar*/
     position: relative;
     top: 10px;
